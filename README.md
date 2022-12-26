@@ -6,4 +6,4 @@
 
 📫 Reach to me on [LinkedIn](https://www.linkedin.com/in/jeremilevesque/) or by [email](mailto:jeremilevesque@hotmail.com)
 
-[Visit my personnal portfolio for a more detailed story of experience and my projects.](jeremilevesque.com)
+[Visit my personnal portfolio for a more detailed story of experience and my projects.](http://jeremilevesque.com)
