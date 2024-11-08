@@ -1,9 +1,15 @@
-👋 Hi, I’m Jeremi Levesque.
+### 👋 Hi, I’m Jeremi Levesque.
+#### I work on applying machine learning to tractography methods.
 
-👀 I’m interested in Machine Learning & Reinforcement Learning.
+MSc. Student at VITAL Lab (Université de Sherbrooke);  
+Wanna-be researcher and part time swimmer;  
+[Read more about what I do](https://jeremilevesque.com);   
 
-🌱 I'm a third year student in Computer Science at the University of Sherbrooke very interested to reduce my carbon footprint using AI.
+- 💉 I live on: `python`, `pytorch`, `reinforcement learning`, `medical imaging`, `machine learning`
+- ❤️ I love using: `c/c++`
+- ✅ I'm good using: `ci/cd`, `javascript`, `docker`, `julia`
+- 💀 I hate: `web development`
 
-📫 Reach to me on [LinkedIn](https://www.linkedin.com/in/jeremilevesque/) or by [email](mailto:jeremilevesque@hotmail.com)
+📫 Reach to me on [LinkedIn](https://www.linkedin.com/in/jeremilevesque/) or by [email](mailto:jeremi.levesque@usherbrooke.ca)
 
-[Visit my personnal portfolio for a more detailed story of experience and my projects.](http://jeremilevesque.com)
+
